@@ -86,6 +86,7 @@ https://bos-testnet.eosphere.io/v1/chain/get_info
 https://boscore.eosrio.io/v1/chain/get_info
 https://api.bostest.alohaeos.com/v1/chain/get_info
 http://bos-test.eoshenzhen.io:8888/v1/chain/get_info
+https://bos-test.eoshenzhen.io:7443/v1/chain/get_info
 ```
 
 API nodes support get actions ( filter-on=* ):
@@ -93,7 +94,7 @@ API nodes support get actions ( filter-on=* ):
 https://bostest.api.blockgo.vip
 https://boscore.eosrio.io/v1/history/ (MongoDB based)
 https://history-api-bos-testnet.keosd.io/v1/history/ (MongoDB based)
-http://bos-test.eoshenzhen.io:8888/v1/chain/get_info
+https://bos-test.eoshenzhen.io:7443/v1/history/
 ```
 
 State History Support:
